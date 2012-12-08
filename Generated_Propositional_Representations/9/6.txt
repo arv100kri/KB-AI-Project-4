@@ -1,0 +1,3 @@
+Shape:unknown 
+ScoreRatio:230
+ScoreDifference:472

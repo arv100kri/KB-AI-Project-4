@@ -1,0 +1,2 @@
+Shape:unknown 
+Score:2057.76174102

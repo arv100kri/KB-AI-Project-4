@@ -1,0 +1,2 @@
+Shape:unknown 
+Factors:Difference, Ratio, Pairwise_Difference

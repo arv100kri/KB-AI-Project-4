@@ -1,0 +1,3 @@
+Shape:shape1 
+Orientation:original 
+Base:3481.0

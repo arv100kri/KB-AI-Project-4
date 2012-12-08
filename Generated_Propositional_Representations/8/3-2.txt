@@ -1,0 +1,4 @@
+Shape:unknown 
+BaseDifference:283
+BaseRatio:189
+BasePairwise_Difference:1008

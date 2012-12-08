@@ -1,0 +1,2 @@
+Shape:shape1 
+Score:1763.09348096

@@ -1,0 +1,4 @@
+Shape:unknown 
+ScoreDifference:335
+ScoreRatio:413
+ScorePairwise_Difference:976

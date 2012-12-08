@@ -1,0 +1,4 @@
+Shape:shape1 
+Orientation:original 
+BaseRatio:376
+BaseDifference:384
